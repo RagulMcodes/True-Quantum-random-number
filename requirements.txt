@@ -1,0 +1,8 @@
+qiskit>=2.0
+qiskit-aer>=0.15
+numpy
+scipy
+pandas
+matplotlib
+streamlit>=1.40
+plotly
